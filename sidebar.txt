@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[svm:home|Door43 (svm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-svm|d43-svm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-svm/archive/master.zip|d43-svm.zip]]
+
+**Recent Changes**
+{{changes>ns = svm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/svm|Ethnologue data]]
+
